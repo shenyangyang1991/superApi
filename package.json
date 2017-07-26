@@ -1,0 +1,27 @@
+{
+  "name": "superapi",
+  "version": "0.1.0",
+  "description": "my own advanced API server.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http",
+    "https",
+    "web",
+    "server",
+    "koa",
+    "controller",
+    "service",
+    "router"
+  ],
+  "author": "shenyangyang",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^2.6.8",
+    "globby": "^6.1.0",
+    "is-type-of": "^1.1.0",
+    "koa": "^2.3.0"
+  }
+}
